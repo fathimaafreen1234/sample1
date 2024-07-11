@@ -19,5 +19,9 @@ git config --global user.name "Afreen@@2003"
 git commit -m "add new file"
 git push
 then sign in
-
+to modify
+git status
+git add filename.extensiom(to add file)
+git commit -m "add new file"
+git push
 
