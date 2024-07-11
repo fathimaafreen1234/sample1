@@ -1,0 +1,23 @@
+1.to know version> git --version
+2.git hub>new>create repository
+to clone
+3.create new folder>open the folder>and type cmd
+first>type git clone and copy (github code)
+4.>git clone url
+5.cd folder name (cd sample1)
+6.git status
+7.git add filename.extensiom(to add file)
+[
+
+to do configuration
+email,username
+
+git config --global user.email "fathimafreen439@gmail.com"
+git config --global user.name "Afreen@@2003"
+]
+
+git commit -m "add new file"
+git push
+then sign in
+
+
